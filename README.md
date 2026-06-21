@@ -1,2 +1,90 @@
-# qr-ai-waste-management-unmsm
-  Intelligent QR Code and Artificial Intelligence System for Solid Waste Management Optimization. Doctoral Research – Universidad Nacional Mayor de San Marcos (Deep Tech AI).
+# QR-AI Waste Management – UNMSM
+
+## Doctoral Research Repository
+
+**Research Title**
+
+Effect of Implementing a Quick Response (QR) Code-Based Information System on Improving Solid Waste Management Among Households Participating in the Source Segregation Program in Amarilis District, Huánuco, Peru – 2026
+
+---
+
+## Researcher
+
+**Davis André Johannattan López Santiago**
+
+Student Code: **26207248**
+
+---
+
+## University
+
+Universidad Nacional Mayor de San Marcos
+
+Faculty of Systems Engineering and Informatics
+
+Doctoral Program in Deep Tech with a Focus on Artificial Intelligence and Emerging Technologies
+
+Supervisor: **Dr. Loveleen Gaur**
+
+---
+
+## Research Overview
+
+This repository contains the documentation, methodology, literature review, research protocol, ethical considerations, reproducibility strategy, and future implementation of an Artificial Intelligence-driven QR Code Information System for improving municipal solid waste management in Amarilis District, Huánuco, Peru.
+
+---
+
+## Research Objectives
+
+- Improve municipal solid waste management.
+- Develop a QR Code-based information system.
+- Integrate Artificial Intelligence for data analysis.
+- Support evidence-based environmental decision-making.
+
+---
+
+## Repository Structure
+
+| Folder | Description |
+|---------|-------------|
+| 01_paradigm | Research paradigm and justification |
+| 02_method | Research methodology and design |
+| 03_protocol | Research protocol |
+| 04_literature | Literature review |
+| 05_pipeline | Research workflow |
+| 06_repro_audit | Reproducibility documentation |
+| 07_model_card | AI model documentation |
+| 08_ethics | Ethical considerations |
+
+---
+
+## Technologies
+
+- Artificial Intelligence
+- Machine Learning
+- QR Code
+- Information Systems
+- GitHub
+- Python (future implementation)
+
+---
+
+## Current Status
+
+**Research Proposal Phase**
+
+Doctoral Research (2026)
+
+---
+
+## ORCID
+
+https://orcid.org/0000-0001-7882-47XX
+
+*(Replace with your complete ORCID if needed.)*
+
+---
+
+## License
+
+MIT License
