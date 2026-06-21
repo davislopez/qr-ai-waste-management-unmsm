@@ -52,16 +52,24 @@ This repository contains the documentation, methodology, literature review, rese
 
 ## Repository Structure
 
+
 | Folder | Description |
 |---------|-------------|
 | 01_paradigm | Research paradigm and justification |
-| 02_method | Research methodology and design |
+| 02_method | Research methodology and research design |
 | 03_protocol | Research protocol |
-| 04_literature | Literature review |
-| 05_pipeline | Research workflow |
-| 06_repro_audit | Reproducibility documentation |
-| 07_model_card | AI model documentation |
-| 08_ethics | Ethical considerations |
+| 04_literature | Systematic literature review |
+| 05_pipeline | Research workflow and implementation pipeline |
+| 06_repro_audit | Reproducibility strategy and documentation |
+| 07_model_card | Artificial Intelligence model documentation |
+| 08_ethics | Research ethics and responsible AI |
+| 09_data_management | Data management plan |
+| 10_bias_audit | Bias identification and mitigation strategy |
+| 11_integrity | Scientific research integrity |
+| 12_future_work | Future research directions and implementation roadmap |
+| 13_references | Scientific references and bibliography |
+
+---
 
 ---
 
