@@ -79,7 +79,7 @@ Doctoral Research (2026)
 
 ## ORCID
 
-https://orcid.org/0000-0001-7882-47XX
+[https://orcid.org/0000-0001-7882-4702]
 
 *(Replace with your complete ORCID if needed.)*
 
