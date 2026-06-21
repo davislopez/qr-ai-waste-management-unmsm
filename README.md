@@ -1,10 +1,17 @@
 # QR-AI Waste Management – UNMSM
 
+![Research](https://img.shields.io/badge/Research-Doctoral-blue)
+![University](https://img.shields.io/badge/University-UNMSM-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Deep Tech](https://img.shields.io/badge/DeepTech-AI-purple)
+
 ## Doctoral Research Repository
 
 **Research Title**
 
 Effect of Implementing a Quick Response (QR) Code-Based Information System on Improving Solid Waste Management Among Households Participating in the Source Segregation Program in Amarilis District, Huánuco, Peru – 2026
+
+---
 
 ---
 
