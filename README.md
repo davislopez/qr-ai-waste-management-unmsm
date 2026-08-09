@@ -76,7 +76,6 @@ This repository contains the documentation, methodology, literature review, rese
 ## Technologies
 
 - Artificial Intelligence
-- Machine Learning
 - QR Code
 - Information Systems
 - GitHub
